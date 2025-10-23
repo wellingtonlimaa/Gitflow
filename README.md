@@ -125,4 +125,4 @@ Caso você não tenha a Branch develop:
 
 ## Links Adicionais
 
-- [Video - GitFlow na prática](https://youtu.be/xC7frT2JPGE)
+- [Video - GitFlow na prática](https://youtu.be/xC7frT2JPGE).
